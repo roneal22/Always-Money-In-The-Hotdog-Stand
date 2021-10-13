@@ -1,0 +1,13 @@
+MENU {
+	background-color: #EFC238;
+	width: 100%;
+	font: Verdana;
+}
+FOOD {
+	border: 3px solid #E62600;
+	display: block;
+	font-size: 18px;
+}
+NAME, PRICE {
+	font-size: 14px;
+}
