@@ -1,5 +1,4 @@
-//ClientSide.js
-
+alert("hello");
 int discount = 0;
 int tax = 6.25;
 taxString;
@@ -7,6 +6,7 @@ int numDogs, numFries, numDrinks;
 int subtotal, tax, grandTotal;
 
 document.write("Welcome to Joe's!");
+
 numDogs = prompt("how many hotdogs?", 0);
 subtotal += numDogs * 3.75;
 numFries = prompt("how many fries?", 0);
