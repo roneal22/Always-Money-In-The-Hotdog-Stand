@@ -1,8 +1,4 @@
 //ClientSide.js
-Display all order information on the page including:
-Items ordered, quantities, subtotal, discount if 
-applicable, tax and total.  All currency values must 
-be rounded to 2 decimal places.
 
 int discount = 0;
 int tax = 6.25;
