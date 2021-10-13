@@ -1,0 +1,19 @@
+
+<?xml-stylesheet href = "Menu.css"?>
+
+<MENU>
+	<FOOD>
+		<NAME>Hotdog</NAME>
+		<PRICE>$3.75</PRICE>
+	</FOOD>
+
+	<FOOD>
+		<NAME>Fries</NAME>
+		<PRICE>$2.00</PRICE>
+	</FOOD>
+
+	<FOOD>
+		<NAME>Drinks</NAME>
+		<PRICE>$1.50</PRICE>
+	</FOOD>
+</MENU>
