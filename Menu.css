@@ -1,13 +1,40 @@
+*{
+	box-sizing: border-box;
+}
+
+.menu{
+	height: 100%;
+	width: 100%;
+	border: 5px solid #5432;
+}
+
+#xmenu{
+	position: fixed;
+	bottom: 0;
+	height: 300px;
+	width: 300px;
+	padding:  1px;
+	font-size: 30px;
+	color: black;
+}
+
+#tmenu{
+	position: absolute;
+	size: auto;
+}
+
 MENU {
 	background-color: #EFC238;
 	width: 100%;
 	font: Verdana;
 }
+
 FOOD {
 	border: 3px solid #E62600;
 	display: block;
 	font-size: 18px;
 }
+
 NAME, PRICE {
 	font-size: 14px;
 }
