@@ -43,8 +43,8 @@ h1 {
 	height: 70%;
 	width: 25%;
 	min-width: 135px;
-	background-color: #ffdb58;
-	border: 2px solid #931009;
+	background-color: #b1cdab/*#ffdb58*/;
+	border: 10px solid #93ba8b;
 }
 
 table {
@@ -85,8 +85,8 @@ tr {
 
 #main {
 	position: fixed;
-	background-color: #b1cdab;
-	border: 10px solid #93ba8b;
+	background-color: #b35752;
+	border: 10px solid #931009;
 	height: 70%;
 	width: 75%;
 	right: 0;
